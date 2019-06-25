@@ -18,7 +18,7 @@ avatar: https://pbs.twimg.com/profile_images/1121080274119471104/da4EdEpO_400x40
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: lucaspacagnan@outlook.com
   facebook:
   flickr:
   github: 
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-142713751-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://www.lucaspacagnan.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
