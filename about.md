@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm an MPhil student at State University of Londrina (UEL) in Brazil and a researcher at [GEFIL](https://gefilblog.wordpress.com/) (a research group on Ethics, Legal e Political philosophy at UEL).
+I'm an MPhil student at State University of Londrina (UEL) in Brazil and a researcher at [GEFIL](https://gefilblog.wordpress.com/) (a research group on Ethics, Legal e Political Philosophy at UEL).
 
 My research is focused on metatheoretical issues evolving a descriptive theory of law and the proper role of conceptual analysis in jurisprudence.
 
