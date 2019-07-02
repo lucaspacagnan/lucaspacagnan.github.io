@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About me 
-
+<div align="justify"> 
 I'm an MPhil Student at State University of Londrina (UEL) in Brazil and a researcher at [GEFIL](https://gefilblog.wordpress.com/) (a research group on Ethics, Legal e Political philosophy at UEL).
 
 My research is focused on metatheoretical issues evolving a descriptive theory of law and the proper role of conceptual analysis in jurisprudence.
@@ -21,15 +20,8 @@ Non-professional nor academic interests include stock and options market, Premie
 + Meta-ethics
 + Value pluralism
 
-## Philosophical interests 
-
-<ul style="list-style-type:disc;">
-  <li>Legal philosophy</li>
-  <li>Conceptual analysis</li>
-  <li>Meta-ethics</li>
-  <li>Value pluralism (🦊)</li>
-</ul>  
-
 ### Contact me
 
 [lucaspacagnan@outlook.com](mailto:lucaspacagnan@outlook.com)
+
+</div> 
