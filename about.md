@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-permalink: /about me/
+title: About
+permalink: /about/
 ---
 
 I'm an MPhil Student at State University of Londrina (UEL) in Brazil and a researcher at [GEFIL](https://gefilblog.wordpress.com/) (a research group on Ethics, Legal e Political philosophy at UEL).
