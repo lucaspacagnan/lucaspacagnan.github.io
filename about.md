@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /about me/
 ---
-
-<p style='text-align: justify;'> 
 
 I'm an MPhil Student at State University of Londrina (UEL) in Brazil and a researcher at [GEFIL](https://gefilblog.wordpress.com/) (a research group on Ethics, Legal e Political philosophy at UEL).
 
@@ -26,4 +24,3 @@ Non-professional nor academic interests include stock and options market, Premie
 [lucaspacagnan@outlook.com](mailto:lucaspacagnan@outlook.com)
 [Twitter](https://twitter.com/pacagnanlucas)
 
-</p>
