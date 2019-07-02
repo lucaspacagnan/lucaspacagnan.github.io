@@ -21,7 +21,7 @@ Non-professional nor academic interests include stock and options market, Premie
 
 ### Contact me
 
-at my email: [lucaspacagnan@outlook.com](mailto:lucaspacagnan@outlook.com)
+at my e-mail: [lucaspacagnan@outlook.com](mailto:lucaspacagnan@outlook.com)
 
 at [Twitter](https://twitter.com/pacagnanlucas) or [Telegram](https://t.me/lucaspacagnan)
 
