@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Como a integração Gmail do Hermes Windows utiliza e protege dados.">
+<title>Política de privacidade — Hermes Windows</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<a class="skip" href="#conteudo">Ir para o conteúdo</a>
+<header><a class="brand" href="../">Hermes Windows</a><nav aria-label="Navegação principal"><a href="../">Apresentação</a><a href="../privacidade/">Privacidade</a></nav></header>
+<main id="conteudo"><p class="eyebrow">Integração Gmail · uso individual</p><h1>Política de privacidade</h1>
+<p>Esta política descreve exclusivamente a integração Gmail do Hermes Windows, administrada por Lucas Pacagnan para organização individual de e-mails e documentos.</p>
+
+<h2>Dados e finalidade</h2>
+<p>A integração verifica o endereço da conta autorizada e consulta mensagens selecionadas pelo fluxo. Pode acessar remetente, assunto, identificadores, marcadores, cabeçalhos, conteúdo e anexos. Informações extraídas dos documentos e registros de processamento são utilizados para organização, conferência de integridade, prevenção de duplicidade e avisos ao usuário.</p>
+
+<h2>Autorização e operações</h2>
+<p>A autorização OAuth ocorre diretamente no Google, pelo navegador; o aplicativo não recebe a senha do Gmail. O escopo <code>gmail.modify</code> permite consultar, compor, enviar e alterar mensagens. Esta integração oferece consulta e arquivamento, sem envio ou exclusão permanente. Arquivar retira o marcador Caixa de entrada após as conferências previstas, incluindo a cópia do documento no OneDrive. O consentimento não ativa automaticamente a rotina.</p>
+
+<h2>Armazenamento e compartilhamento</h2>
+<p>Os documentos são armazenados no Windows e no OneDrive configurado pelo usuário; os registros de processamento ficam no Windows. Quando habilitados, avisos são enviados ao Telegram configurado e podem conter origem, nome ou caminho do documento e informações extraídas, como datas e valores. Esses destinos envolvem os serviços da Microsoft e do Telegram.</p>
+<p>O uso e a transferência de dados recebidos das APIs do Google seguem a <a href="https://developers.google.com/terms/api-services-user-data-policy">Política de Dados do Usuário do Google</a>, incluindo Uso Limitado. Este componente não utiliza esses dados para publicidade, venda de dados ou treinamento de modelos. A conferência humana para suporte depende de autorização para os dados específicos, ressalvadas as hipóteses permitidas pela política do Google.</p>
+
+<h2>Proteção, conservação e remoção</h2>
+<p>As conexões utilizam HTTPS e a autorização é protegida pelos mecanismos de segurança do Windows. Isso não significa que todos os documentos estejam criptografados. A proteção também depende das permissões das contas e dispositivos.</p>
+<p>Não há prazo automático geral de exclusão: arquivos, registros e avisos permanecem até remoção administrada pelo usuário. É possível interromper a rotina e <a href="https://myaccount.google.com/connections">revogar o acesso na Conta Google</a>. A revogação não apaga cópias já existentes nos outros destinos.</p>
+<p>Responsável: Lucas Pacagnan. Para suporte ou orientação sobre remoção, utilize o <a href="https://github.com/lucaspacagnan/lucaspacagnan.github.io/issues">canal do projeto</a>. Novos usos serão informados antes de sua adoção.</p>
+</main>
+<footer><span>Hermes Windows · Lucas Pacagnan</span><a href="https://github.com/lucaspacagnan/lucaspacagnan.github.io/issues">Contato do projeto</a><p>Não inclua senhas, tokens ou documentos pessoais no contato público.</p></footer>
+</body>
+</html>
